@@ -1,3 +1,25 @@
+### File Share - WebShare
+
+## About
+WebShare is a cutting-edge file-sharing web application designed to provide users with a fast, easy, and secure way to share files. Whether you're transferring documents, images, videos, or any other type of file, WebShare ensures your data is handled with the utmost efficiency and security.
+
+## Features
+- Real-Time Collaboration
+- Robust Security
+- User-Friendly Interface
+- Drag-and-Drop Functionality
+- Secure Links
+
+## Technology use
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React](https://reactjs.org/)
+- [hyperui(Tailwind CSS Components)](https://www.hyperui.dev/)
+- [lucide](https://lucide.dev/)
+- [Firebase](https://firebase.google.com/docs?hl=en&authuser=0&_gl=1*1u2xlmz*_ga*MTI2OTMyNjc2MC4xNzE3MzIxMDQz*_ga_CW55HF8NVT*MTcxNzMyMTA0Ny4xLjEuMTcxNzMyMTM0Ni42MC4wLjA.)
+- [clerk (For authentication)](https://clerk.com/docs)
+- 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
