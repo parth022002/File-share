@@ -18,7 +18,6 @@ WebShare is a cutting-edge file-sharing web application designed to provide user
 - [lucide](https://lucide.dev/)
 - [Firebase](https://firebase.google.com/docs?hl=en&authuser=0&_gl=1*1u2xlmz*_ga*MTI2OTMyNjc2MC4xNzE3MzIxMDQz*_ga_CW55HF8NVT*MTcxNzMyMTA0Ny4xLjEuMTcxNzMyMTM0Ni42MC4wLjA.)
 - [clerk (For authentication)](https://clerk.com/docs)
-- 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
